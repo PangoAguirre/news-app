@@ -32,29 +32,3 @@ Develop a React application that consumes the [News API](https://newsapi.org/) t
 
 6. **Custom Hook**  
    - Create a reusable custom hook (`useFetchNews`) to handle API calls and abstract the fetching logic.
-
----
-
-## **Technical Constraints**
-
-- Use **React with functional components** and **Hooks** (`useState`, `useEffect`, and custom hooks).  
-- Fetch data from the [News API](https://newsapi.org/). You will need to create an API key for this.  
-- Style the application using plain CSS or a CSS framework of your choice.
-
----
-
-## **Deliverables**
-
-1. A GitHub repository containing the project.  
-2. A README file with:
-   - Setup instructions.  
-   - Steps to run the application locally.  
-
----
-
-## **Bonus Features**
-
-1. Implement pagination to navigate through multiple pages of results.  
-2. Add a friendly message or indicator when no results are found.  
-
-Good luck, and let us know if you have any questions! 😊
